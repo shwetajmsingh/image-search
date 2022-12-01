@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+input{
+  width: 50vw;
+  height: 4vh;
+  border-radius: 3vh;
+}
+
+button{
+  width: 6vw;
+  height: 5vh;
+  margin: 2vh;
+  background-color: black;
+  color: white;
+  border-radius: 3vh;
+}
+
+img{
+  width: 15vw;
+  height: 20vh;
+  margin: 4vh;
+}
+
+img:hover{
+   width: 16vw;
+   height: 21vh;
+   cursor: pointer;
+}
+
+.row-3{
+  width: 20vw;
+  margin-left: 11vw;
+}
+
+h4{
+  width: 10vw;
+  background-color: #ccc;
+  margin-left: 60vw;
+  color: white;
+}
